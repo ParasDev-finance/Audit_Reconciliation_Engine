@@ -29,4 +29,16 @@ Instead of relying on basic spreadsheet lookups, this tool leverages **Polars** 
 4. A visual dashboard will render showing the distribution of anomalies. 
 
 ## 📊 Sample Output
-*(Note: Upload the screenshots of your two charts here!)*
+ ⚙️ Generating 10,000 baseline transactions...
+🌪️ Chaos successfully injected! CSVs saved.
+
+🧹 Cleaning data and standardizing dates...
+--- 🚨 AUTOMATED AUDIT REPORT 🚨 ---
+Total Transactions Scanned: 10050
+1. Outstanding Items Found: 200
+2. Unrecorded Bank Items Found: 50
+3. Amount Mismatches Found: 98
+
+![capture_temp](https://github.com/user-attachments/assets/03bdbf48-612a-44ac-a890-b36c7e255614)
+
+
